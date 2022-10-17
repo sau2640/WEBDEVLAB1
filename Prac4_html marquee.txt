@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+            <title>Practical 4</title>
+</head>
+<body bgcolor="gray">
+      <h1 style="text-align:center; color:#ff4500;background-color:#b0c4de">
+        Let's Learn Marquee
+    </h1>
+    <hr>
+    <h1 style="color:blue;">
+        Marquee Behaviour
+    </h1>
+    <h2 style="background-color:pink;">
+        Scrolling
+    </h2>
+    <marquee behaviour="scrolling"direction="">I am right scrolling</marquee>   
+    <marquee behaviour="scrolling"direction="left">I am left scrolling</marquee>   
+    <marquee behaviour="scrolling"direction="up">I am scrolling upward</marquee>   
+    <marquee behaviour="scrolling"direction="down">I am scrolling downward</marquee> 
+    <hr> 
+    <h2 style="background-color:pink;">
+        Sliding
+    </h2> 
+    <marquee behaviour="slide" direction="">I am sliding</marquee> 
+    <hr>
+    <h2 style="background-color:pink;">
+        Alternate
+    </h2>
+    <marquee behaviour="Alternate" direction="">I am Alternate</marquee> 
+</body>
+</html>

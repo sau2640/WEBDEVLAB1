@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>practical 2</title>
+</head>
+<body>
+     <h1> 
+        Lets learn All the formatting tags
+     </h1>
+     <hr>
+     <p>
+        <b>This is a Bold Text</b> <br>
+        <strong>
+                This text looks bold but we have used strong tag here as this is important text
+        </strong> <br><br>
+        <i>This is itallic tag</i> <br>
+        <em> This text is emphasized </em> <br><br>
+        <n>The text is normal </n> <br><br>
+        <small>This is smaller text</small><br><br>
+        <mark>Text is Marked</mark><br><br>
+        <s>some text delete</s> <br><br>
+        <p> we can always insert
+            <u>new text</u> instead of <s>old one</s><br><br>            
+        </p>
+        <p> This is 
+            <suB> subscripted text</suB>
+        </p>
+        <p>
+            This is
+            <sup>subscripted text </sup>
+        </p>
+
+     </p>
+    
+</body>
+</html>

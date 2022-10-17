@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>    
+    <title>practical6</title>
+    <style>
+          div{
+            background-color:aquamarine;
+            color:darkmagenta;
+            text-align:center;
+            font-size: 52px;
+            margin-top:50px;
+            margin-left:350px;
+            margin-right: 350px;
+            border: 2px solid
+          }
+    </style>
+</head>
+<body bgcolor="aquamarine">
+    <h1 style="background-color:#F64C72;color: #140E2A;text-align: center;font-size: 50px;margin-left: 100px;margin-right: 100px;">
+        MySelf Sayali <br>
+        You may connet to me through the below links
+    </h1>
+    <div>
+        <a href="https://www.linkedin.com/in/sayali-dhake-bb9392249/">
+        Linkedin
+        </a>
+    </div>
+    <div>
+        <a href="https://github.com/sau2640">
+        Github
+        </a>
+    </div>
+    <div>
+        <a href="https://www.google.com/intl/en-GB/gmail/about/">
+        Gmail
+        </a>
+    </div> 
+</body>
+</html>

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>practical-5</title>
+</head>
+<body bgcolor="pink">
+      <h1 style="color:blue;text-align:center;"> Let's Learn Lists</h1>
+      <hr>
+     <h1 style="color:red;"> Ordered List</h1>  
+      <!-- Capital Alphabets -->
+      <ol type="A" style="color:purple;"> 
+       <li>Html <li>
+       <li>Java</li>
+        <li>c++</li>
+        <li>PHP</li>
+      </ol>
+      <!-- Small Alphabets -->
+      <ol type="a"  style="color:purple;"> 
+       <li>Html</li>
+       <li>Java</li>
+       <li>c++</li>
+       <li>PHP</li>
+      </ol>
+      <!-- default-->
+      <ol  style="color:purple;"> 
+       <li>Html</li>
+       <li>Java</li>
+       <li>c++</li>
+       <li>PHP</li>
+   </ol>
+      <!--  Capital Roman -->
+        <ol type="I"  style="color:purple;"> 
+        <li>Html</li>
+        <li>Java</li>
+        <li>c++</li>
+        <li>PHP</li>
+      </ol>
+      <!-- Small Roman -->
+      <ol type="I"  style="color:purple;"> 
+        <li>Html</li>
+        <li>Java</li>
+        <li>c++</li>
+        <li>PHP</li>
+        </ol>
+      <hr>
+      <h1 style="color:red;"> Unordered List</h1> 
+       <!--default -->
+      <ul  style="color:purple;">
+        <li>Html</li>
+        <li>Java</li>
+        <li>c++</li>
+        <li>PHP</li>
+       </ul>
+       <!-- circle -->
+      <ul type="circle"  style="color:purple;">
+        <li>html></li>
+        <li>java</li>
+        <li>c++</li>
+        <li>PHP</li>
+      </ul>
+      <!--square -->
+      <ul type="square" style="color:purple;">
+      <li>Html</li>
+      <li>Java</li>
+      <li>c++</li>
+        <li>PHP</li>
+      </ul>
+      <!--none -->
+      <ul type="none" style="color:purple;">
+        <li>Html</li>
+        <li>Java</li>
+        <li>c++</li>
+        <li>PHP</li>
+      </ul>
+      <hr>
+      <h1 style="color:red;"> Discription List</h1>  
+      <dl>
+          <dt style="color:purple;">F1</dt>
+          <dd style="color:purple;">-I am Student of F1 Batch</dd>
+      </dl>   
+</body>
+</html>
